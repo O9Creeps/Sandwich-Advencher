@@ -1,4 +1,4 @@
 {
-  "Sandwich Advencher":["lib/S1.sb3", "thumb/S1.png"],
-  "Sandwich Advencher 2":["lib/S2.sb3", "thumb/S2.png"]
+  "Sandwich Advencher":["lib/sandwich advencher.sb3", "thumb/sa1thumb.png"],
+  "Sandwich Advencher 2":["lib/sandwich advencher two.sb3", "thumb/sa2thumb.png"]
 }
