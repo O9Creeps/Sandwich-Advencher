@@ -1,4 +1,5 @@
 {
   "Sandwich Advencher":["lib/sandwich advencher.sb3", "thumb/sa1thumb.png"],
-  "Sandwich Advencher 2":["lib/sandwich advencher two.sb3", "thumb/sa2thumb.png"]
+  "Sandwich Advencher 2":["lib/sandwich advencher two.sb3", "thumb/sa2thumb.png"],
+  "image correction test":["joe", "thumb/ohio.png"]
 }
